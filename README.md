@@ -1,11 +1,12 @@
-# Elixir Hello World
-
-## 简介
-
-Elixir 是一种基于 Erlang VM 的函数式编程语言，适合构建分布式、高并发应用。
+# Elixir hello-world
 
 ## 启动
 
 ```bash
-elixir hello_world.exs
+elixir elixir-hello-world-demo/*.exs
 ```
+
+## 教程
+
+Elixir hello-world 示例。
+
